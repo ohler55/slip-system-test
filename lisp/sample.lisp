@@ -1,3 +1,6 @@
 
 (defun sample (x)
-  (+ x 5))
+  (+ x 7))
+
+(defun quux ()
+  'foobar)
